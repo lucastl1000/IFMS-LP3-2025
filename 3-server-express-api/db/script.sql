@@ -15,5 +15,5 @@ CREATE TABLE cliente (
     telefone varchar(11),
     endereco varchar(255),
     cidade varchar(100),
-    uf varchar(2),
+    uf varchar(2)
 );
